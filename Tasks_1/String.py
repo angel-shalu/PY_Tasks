@@ -41,7 +41,7 @@ print(len(first_name)) ==  print(len(last_name))   # True
 print(len(full_name))    #11
 
 
-## Unpacing Character
+## Unpacking Character
 language = "Python"
 a,b,c,d,e,f = language    ## unpacking sequence characters into variables
 print(a)   # P
